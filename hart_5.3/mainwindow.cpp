@@ -72,7 +72,6 @@ string MainWindow::toBinary(int value) {
     hexValue.append(indexInBinary);
     mantissaInBinary = decimalToBinary(value-previous);
 
-    //00111111100000000000000000000000
     switch (decimalToBinary(value-previous).length() % 4) {
         case 1:
             hexValue.append("000"); break;

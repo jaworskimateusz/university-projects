@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2020-05-19T22:15:06. -->
+<!-- Written by QtCreator 4.11.0, 2020-05-19T23:46:07. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -285,8 +285,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Applications/Documents/Studies/SEM VI/SCR/IEEETOInner/hart53.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Applications/Documents/Studies/SEM VI/SCR/IEEETOInner/hart53.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">hart532</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/Applications/Documents/Studies/SEM VI/university-projects/hart_5.3/hart53.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/Applications/Documents/Studies/SEM VI/university-projects/hart_5.3/hart53.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
